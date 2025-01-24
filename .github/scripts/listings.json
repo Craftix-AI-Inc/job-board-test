@@ -24269,5 +24269,21 @@
         "company_url": "https://simplify.jobs/c/Remitly",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1737682562,
+        "url": "https://githubinc.jibeapply.com/jobs/3650?iis=Job+Board&iisn=LinkedIn&lever-source=LinkedinPosting&lang=en-us",
+        "company_name": "GitHUb",
+        "title": "Software Engineer",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "KaiwenChe",
+        "id": "3f93bc3a-74a9-4ac6-b17a-6de23ada394e",
+        "date_posted": 1737682562,
+        "company_url": "",
+        "is_visible": true
     }
 ]
