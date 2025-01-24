@@ -53,10 +53,10 @@ jobs:
         run: gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
         if: success()
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Problem With Action
         run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our github action. Error - ${{ steps.python_script.outputs.error_message }} ${{ steps.python_script_readme.outputs.error_message }}"
         if: failure()
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
