@@ -24,6 +24,7 @@ jobs:
         run: |
           if git show-ref --quiet refs/remotes/origin/dev; then
             git pull origin dev
+            git checkout dev
           else
             git checkout -b dev
           fi
