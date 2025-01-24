@@ -24285,5 +24285,21 @@
         "date_posted": 1737682562,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737686656,
+        "url": "https://test url",
+        "company_name": "test role",
+        "title": "test title",
+        "locations": [
+            "test location"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ckzhang981",
+        "id": "7c5471cb-29cb-4966-ab98-590b19d39233",
+        "date_posted": 1737686656,
+        "company_url": "",
+        "is_visible": true
     }
 ]
