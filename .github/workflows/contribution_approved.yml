@@ -39,9 +39,13 @@ jobs:
           git add README.md
           git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
 
-      - name: pull changes
+      - name: Check and create dev branch if needed
         run: |
-          git pull origin dev
+          if git show-ref --quiet refs/remotes/origin/dev; then
+            git pull origin dev
+          else
+            git checkout -b dev
+          fi
 
       - name: push changes
         if: success()
