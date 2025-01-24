@@ -10,9 +10,6 @@ jobs:
   run-python-script:
     runs-on: ubuntu-latest
     if: github.event.label.name == 'approved'
-    permissions:  # Add permissions for the token
-      contents: write
-      issues: write
 
     steps:
       - name: Checkout Repository
