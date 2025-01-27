@@ -24301,5 +24301,21 @@
         "date_posted": 1737686656,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737922011,
+        "url": "https://Test.com",
+        "company_name": "test03",
+        "title": "test03",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Craftix-AI-Inc",
+        "id": "96ab610c-37e2-4d93-9f99-62794597f260",
+        "date_posted": 1737922011,
+        "company_url": "",
+        "is_visible": true
     }
 ]
