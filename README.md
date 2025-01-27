@@ -23,7 +23,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 			<br>
 			<div>
 			<a href="https://swelist.com">
-          <img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="Email">
+          <img src="https://resumasterlogo.s3.us-east-2.amazonaws.com/ResuMaster_Buttons.png" width="400" alt="ResuMaster">
         </a>
 			</div>
 		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
@@ -41,7 +41,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 			<br>
 			<div>
 				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
+          <img src="https://resumasterlogo.s3.us-east-2.amazonaws.com/discord.png" width="200" alt="ResuMaster Discord">
         </a>
 			</div>
 		</a>
