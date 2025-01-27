@@ -22,7 +22,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 			Check out ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo 
 			<br>
 			<div>
-			<a href="https://swelist.com">
+			<a href="https://resumaster.ai/">
           <img src="https://resumasterlogo.s3.us-east-2.amazonaws.com/ResuMaster_Buttons.png" width="400" alt="ResuMaster">
         </a>
 			</div>
