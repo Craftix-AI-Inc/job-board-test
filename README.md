@@ -34,10 +34,10 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 <div align="center">
 	<p>
-		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-			<b>Applying to jobs?</b>
+		<a href="https://discord.gg/YURMHY9JNt">
+			<b>Get more job hunting resources?</b>
 			<br>
-			Autofill all your applications in a single click.
+			Join our Discord community in a single click.
 			<br>
 			<div>
 				<a href="https://discord.gg/YURMHY9JNt">
