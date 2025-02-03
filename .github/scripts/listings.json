@@ -24317,5 +24317,21 @@
         "date_posted": 1737922011,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738613156,
+        "url": "https://Test 02/03",
+        "company_name": "Google",
+        "title": "SDE",
+        "locations": [
+            "Chicago"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Craftix-AI-Inc",
+        "id": "02cf70c1-281a-468c-b101-6217cbb8e850",
+        "date_posted": 1738613156,
+        "company_url": "",
+        "is_visible": true
     }
 ]
