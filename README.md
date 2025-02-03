@@ -41,7 +41,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 			<br>
 			<div>
 				<a href="https://discord.gg/YURMHY9JNt">
-          <img src="https://resumasterlogo.s3.us-east-2.amazonaws.com/discord.png" width="200" alt="ResuMaster Discord">
+          <img src="https://resumasterlogo.s3.us-east-2.amazonaws.com/discord.png" width="150" alt="ResuMaster Discord">
         </a>
 			</div>
 		</a>
